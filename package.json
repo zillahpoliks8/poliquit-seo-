@@ -1,15 +1,19 @@
 {
-  "name": "DAMABSIT3SE",
+  "name": "poliquit-finalexam",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "webdev-final",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zillahpoliks8/poliquit-finalexam.git"
+  },
+  "author": "zillah paola poliquit",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.15.3"
-  }
+  "bugs": {
+    "url": "https://github.com/zillahpoliks8/poliquit-finalexam/issues"
+  },
+  "homepage": "https://github.com/zillahpoliks8/poliquit-finalexam#readme"
 }
